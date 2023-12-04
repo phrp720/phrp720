@@ -25,4 +25,4 @@ I have been playing with a lot of languages and frameworks lately some of them a
 - Velocity
 # 📫 How to reach me:
 
-- Email: [filippospapadakis1@gmail.com](mailto:filippospapadakis1@gmail.com
+- Email: [filippospapadakis1@gmail.com](mailto:filippospapadakis1@gmail.com)
