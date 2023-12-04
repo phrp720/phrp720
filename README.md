@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Phillip and I'm a Software Engineer, I live in Heraklion, Greece.
+
+I have been playing with a lot of languages and frameworks lately some of them are:
+
+- Java EE
+- Springboot Framework
+- Jmix Framework
+- Velocity
+# 📫 How to reach me:
+
+- Email: [filippospapadakis1@gmail.com](mailto:filippospapadakis1@gmail.com
