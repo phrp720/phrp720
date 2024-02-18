@@ -19,7 +19,7 @@ My name is Phillip and I'm a Software Engineer, I live in Heraklion, Greece.
 
 I have been playing with a lot of languages and frameworks lately some of them are:
 
-- Java EE 7
+- Java EE 8
 - Springboot Framework
 - Jmix Framework
 - Velocity
