@@ -15,15 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Phillip and I'm a Software Engineer, I live in Heraklion, Greece.
+My name is Phillip and I'm a Software Engineer located  in Heraklion, Greece.
 
-I have been playing with a lot of languages and frameworks lately some of them are:
-
-- Java EE 8
-- Go
-- Springboot Framework
-- Jmix Framework
-- Velocity
 # 📫 How to reach me:
 
 - Email: [filippospapadakis1@gmail.com](mailto:filippospapadakis1@gmail.com)
