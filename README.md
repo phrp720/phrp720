@@ -1,22 +1,11 @@
 # Hi there 👋
 
-<!--
-**phrp720/phrp720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Phillip, a Software Engineer based in Heraklion, Greece.
 
-Here are some ideas to get you started:
+🔒 **Cybersecurity Enthusiast** | 🌐 **API Developer** | 💻 **Software Innovator**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+I'm deeply interested in the intersection of security and technology, focusing on Cybersecurity, REST APIs, and cutting-edge software development. I love building secure, efficient, and scalable systems that solve real-world problems.
 
-My name is Phillip and I'm a Software Engineer located  in Heraklion, Greece.
-
-My keen interests lie in Cybersecurity, REST APIs, and software development.
-
-# 📫 How to reach me:
-
-- Email: [filippospapadakis1@gmail.com](mailto:filippospapadakis1@gmail.com)
+## 📫 How to reach me
+- 📧 Email: [filippospapadakis1@gmail.com](mailto:filippospapadakis1@gmail.com)
+- 💼 Linkedin: [www.linkedin.com/in/phillip-rafail-papadakis-8a2170238](www.linkedin.com/in/phillip-rafail-papadakis-8a2170238)
