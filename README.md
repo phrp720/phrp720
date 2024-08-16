@@ -8,4 +8,4 @@ I'm deeply interested in the intersection of security and technology, focusing o
 
 ## 📫 How to reach me
 - 📧 Email: [filippospapadakis1@gmail.com](mailto:filippospapadakis1@gmail.com)
-- 💼 Linkedin: [www.linkedin.com/in/phillip-rafail-papadakis-8a2170238](www.linkedin.com/in/phillip-rafail-papadakis-8a2170238)
+- 💼 Linkedin: [linkedin.com/in/phillip-rafail-papadakis-8a2170238](https://www.linkedin.com/in/phillip-rafail-papadakis-8a2170238)
