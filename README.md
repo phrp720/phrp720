@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm Phillip, a Software Engineer based in Heraklion, Greece.
 
-🔒 **Cybersecurity Enthusiast** | 🌐 **API Developer** | 💻 **Software Innovator**
+🔒 **Cybersecurity Enthusiast** | 💻 **Software Engineer**
 
-I'm deeply interested in the intersection of security and technology, focusing on Cybersecurity, REST APIs, and cutting-edge software development. I love building secure, efficient, and scalable systems that solve real-world problems.
+I am deeply interested in the intersection of security and technology, specializing in cybersecurity, REST APIs, and software development. I enjoy building secure, efficient, scalable systems that solve real-world problems and empower people and developers.
 
 ## 📫 How to reach me
 - 📧 Email: [filippospapadakis1@gmail.com](mailto:filippospapadakis1@gmail.com)
