@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm Phillip, a Software Engineer based in Heraklion, Greece.
+I'm Phillip, a Software Engineer based in Heraklion, Greece.
 
 🔒 **Cybersecurity Enthusiast** | 💻 **Software Engineer**
 
