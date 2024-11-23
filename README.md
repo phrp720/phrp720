@@ -1,8 +1,5 @@
-# Hi there 👋
+# Hi there, I'm Phillip 👋
 
-I'm Phillip, a Software Engineer located in Brno, Czech Republic.
-
-🔒 **Cybersecurity Enthusiast** | 💻 **Software Engineer**
 
 I am deeply interested in the intersection of security and technology, specializing in cybersecurity, REST APIs, and software development. I enjoy building secure, efficient, scalable systems that solve real-world problems and empower people and developers.
 
