@@ -6,8 +6,8 @@ Currently, I am conducting research as part of an internship at the [Faculty of 
 
 ### 📊 Statistics  
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phrp720&theme=dark" width="48%" >
-    <img src="https://github-readme-stats.vercel.app/api?username=phrp720&show_icons=true&theme=dark" alt="github stats" width="48%" align="right"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phrp720" width="48%" >
+    <img src="https://github-readme-stats.vercel.app/api?username=phrp720&show_icons=true" alt="github stats" width="48%" align="right"/>
 </div>
 
 ### 📫 How to reach me  
