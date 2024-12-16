@@ -1,6 +1,6 @@
 # Hi there, I'm Phillip 👋
 
-I am passionate about the intersection of security and technology, specializing in cybersecurity, REST APIs, and software development. I enjoy building secure, efficient, scalable systems that solve real-world problems and empower people and developers.
+I enjoy building secure, efficient, scalable systems that solve real-world problems and empower people and developers.
 
 Currently, I am conducting research as part of an internship at the [Faculty of Information Technology, Brno University of Technology](https://www.fit.vut.cz/.en), exploring **Computer User Activity Monitoring and Reporting**.
 
