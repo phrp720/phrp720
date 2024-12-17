@@ -5,9 +5,8 @@ I enjoy building secure, efficient, scalable systems that solve real-world probl
 Currently, I am conducting research as part of an internship at the [Faculty of Information Technology, Brno University of Technology](https://www.fit.vut.cz/.en), exploring **Computer User Activity Monitoring and Reporting**.
 
 ### 📊 Statistics  
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phrp720" width="48%" >
-    <img src="https://github-readme-stats.vercel.app/api?username=phrp720&show_icons=true" alt="github stats" width="48%" align="right"/>
+<div >
+    <img src="https://github-readme-stats.vercel.app/api?username=phrp720&show_icons=true" alt="github stats" width="48%" />
 </div>
 
 ### 📫 How to reach me  
